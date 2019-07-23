@@ -1,1 +1,1 @@
-As practice in ruby on rails I wil try to follow along with this tutorial http://tutorials.jumpstartlab.com/projects/blogger.html to set up a blog with ruby on rails. This is a mini project from 'The Odin Project'.
+As practice in ruby on rails I will try to follow along with this tutorial http://tutorials.jumpstartlab.com/projects/blogger.html to set up a blog with ruby on rails. This is a mini project from 'The Odin Project'.
